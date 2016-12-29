@@ -1,0 +1,25 @@
+body p {
+  color: #000000;
+  font-size: 12px; }
+body .rojoHr {
+  background-color: #E13038;
+  width: 100%;
+  border: solid 1px #E13038; }
+body .hrFlaco {
+  background-color: #E13038;
+  width: 20%;
+  float: left;
+  margin: 0;
+  border: solid 2px #E13038; }
+body span {
+  color: #E13038; }
+
+header img {
+  padding: 2%; }
+
+section img {
+  width: 100%; }
+  section img hr {
+    width: 90%; }
+
+/*# sourceMappingURL=style.css.map */
